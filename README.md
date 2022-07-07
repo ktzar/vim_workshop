@@ -1,2 +1,4 @@
 # vim_workshop
-Files for the VIM workshop organised at Vodafone
+Files for the VIM workshop organised at Vodafone.
+
+The files are just examples to try different commands in Vim.
